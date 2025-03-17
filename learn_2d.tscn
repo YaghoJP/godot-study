@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://bvp7xwdpwhjtb"]
+
+[ext_resource type="Script" path="res://dictionary.gd" id="2_2d4t2"]
+
+[node name="Learn2D" type="Node2D"]
+
+[node name="Dictionary" type="Node2D" parent="."]
+script = ExtResource("2_2d4t2")
